@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="imooc-single-mvc-common" />
+        <module name="imooc-single-mvc-mapper" />
+        <module name="imooc-single-mvc-pojo" />
+        <module name="imooc-single-mvc-service-item" />
+        <module name="imooc-single-mvc-service-order" />
+        <module name="imooc-single-mvc-web" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="imooc-single-mvc" target="1.8" />
+      <module name="imooc-single-mvc-common" target="1.8" />
+      <module name="imooc-single-mvc-mapper" target="1.8" />
+      <module name="imooc-single-mvc-pojo" target="1.8" />
+      <module name="imooc-single-mvc-service-item" target="1.8" />
+      <module name="imooc-single-mvc-service-order" target="1.8" />
+      <module name="imooc-single-mvc-web" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

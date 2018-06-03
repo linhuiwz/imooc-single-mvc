@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/imooc-single-mvc.iml" filepath="$PROJECT_DIR$/imooc-single-mvc.iml" />
+      <module fileurl="file://$PROJECT_DIR$/imooc-single-mvc-common/imooc-single-mvc-common.iml" filepath="$PROJECT_DIR$/imooc-single-mvc-common/imooc-single-mvc-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/imooc-single-mvc-mapper/imooc-single-mvc-mapper.iml" filepath="$PROJECT_DIR$/imooc-single-mvc-mapper/imooc-single-mvc-mapper.iml" />
+      <module fileurl="file://$PROJECT_DIR$/imooc-single-mvc-pojo/imooc-single-mvc-pojo.iml" filepath="$PROJECT_DIR$/imooc-single-mvc-pojo/imooc-single-mvc-pojo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/imooc-single-mvc-service-item/imooc-single-mvc-service-item.iml" filepath="$PROJECT_DIR$/imooc-single-mvc-service-item/imooc-single-mvc-service-item.iml" />
+      <module fileurl="file://$PROJECT_DIR$/imooc-single-mvc-service-order/imooc-single-mvc-service-order.iml" filepath="$PROJECT_DIR$/imooc-single-mvc-service-order/imooc-single-mvc-service-order.iml" />
+      <module fileurl="file://$PROJECT_DIR$/imooc-single-mvc-web/imooc-single-mvc-web.iml" filepath="$PROJECT_DIR$/imooc-single-mvc-web/imooc-single-mvc-web.iml" />
+    </modules>
+  </component>
+</project>
