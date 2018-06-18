@@ -291,5 +291,6 @@
 		<module>imooc-single-mvc-service-item</module>
 		<module>imooc-single-mvc-service-order</module>
 		<module>imooc-single-mvc-web</module>
+		<module>imooc-single-mvc-swagger</module>
 	</modules>
 </project>

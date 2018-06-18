@@ -1,138 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c9887470-ce73-4c15-9456-c9f097e39cd2" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/imooc-single-mvc-common/target/classes/META-INF/MANIFEST.MF" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imooc-single-mvc-common/target/classes/META-INF/maven/com.imooc/imooc-single-mvc-common/pom.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imooc-single-mvc-common/target/classes/META-INF/maven/com.imooc/imooc-single-mvc-common/pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imooc-single-mvc-common/target/classes/com/imooc/common/enums/OrderStatusEnum.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imooc-single-mvc-common/target/classes/com/imooc/common/enums/SexEnum.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imooc-single-mvc-common/target/classes/com/imooc/common/enums/YesOrNo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imooc-single-mvc-common/target/classes/com/imooc/common/pojo/JqGridResult.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imooc-single-mvc-common/target/classes/com/imooc/common/utils/IMoocJSONResult.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imooc-single-mvc-common/target/classes/com/imooc/common/utils/JsonUtils.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imooc-single-mvc-common/target/imooc-single-mvc-common.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imooc-single-mvc-common/target/maven-archiver/pom.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imooc-single-mvc-common/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imooc-single-mvc-common/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imooc-single-mvc-mapper/target/classes/META-INF/MANIFEST.MF" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imooc-single-mvc-mapper/target/classes/META-INF/maven/com.imooc/imooc-single-mvc-mapper/pom.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imooc-single-mvc-mapper/target/classes/META-INF/maven/com.imooc/imooc-single-mvc-mapper/pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imooc-single-mvc-mapper/target/classes/com/imooc/mapper/ItemsMapper.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imooc-single-mvc-mapper/target/classes/com/imooc/mapper/ItemsMapper.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imooc-single-mvc-mapper/target/classes/com/imooc/mapper/OrdersMapper.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imooc-single-mvc-mapper/target/classes/com/imooc/mapper/OrdersMapper.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imooc-single-mvc-mapper/target/imooc-single-mvc-mapper.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imooc-single-mvc-mapper/target/maven-archiver/pom.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imooc-single-mvc-mapper/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imooc-single-mvc-mapper/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imooc-single-mvc-pojo/target/classes/META-INF/MANIFEST.MF" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imooc-single-mvc-pojo/target/classes/META-INF/maven/com.imooc/imooc-single-mvc-pojo/pom.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imooc-single-mvc-pojo/target/classes/META-INF/maven/com.imooc/imooc-single-mvc-pojo/pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imooc-single-mvc-pojo/target/classes/com/imooc/pojo/Items.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imooc-single-mvc-pojo/target/classes/com/imooc/pojo/ItemsExample$Criteria.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imooc-single-mvc-pojo/target/classes/com/imooc/pojo/ItemsExample$Criterion.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imooc-single-mvc-pojo/target/classes/com/imooc/pojo/ItemsExample$GeneratedCriteria.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imooc-single-mvc-pojo/target/classes/com/imooc/pojo/ItemsExample.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imooc-single-mvc-pojo/target/classes/com/imooc/pojo/Orders.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imooc-single-mvc-pojo/target/classes/com/imooc/pojo/OrdersExample$Criteria.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imooc-single-mvc-pojo/target/classes/com/imooc/pojo/OrdersExample$Criterion.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imooc-single-mvc-pojo/target/classes/com/imooc/pojo/OrdersExample$GeneratedCriteria.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imooc-single-mvc-pojo/target/classes/com/imooc/pojo/OrdersExample.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imooc-single-mvc-pojo/target/imooc-single-mvc-pojo.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imooc-single-mvc-pojo/target/maven-archiver/pom.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imooc-single-mvc-pojo/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imooc-single-mvc-pojo/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imooc-single-mvc-service-item/target/classes/META-INF/MANIFEST.MF" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imooc-single-mvc-service-item/target/classes/META-INF/maven/com.imooc/imooc-single-mvc-service-item/pom.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imooc-single-mvc-service-item/target/classes/META-INF/maven/com.imooc/imooc-single-mvc-service-item/pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imooc-single-mvc-service-item/target/classes/com/imooc/item/service/ItemsService.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imooc-single-mvc-service-item/target/classes/com/imooc/item/service/impl/ItemsServiceImpl.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imooc-single-mvc-service-item/target/imooc-single-mvc-service-item.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imooc-single-mvc-service-item/target/maven-archiver/pom.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imooc-single-mvc-service-item/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imooc-single-mvc-service-item/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imooc-single-mvc-service-order/target/classes/META-INF/MANIFEST.MF" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imooc-single-mvc-service-order/target/classes/META-INF/maven/com.imooc/imooc-single-mvc-service-order/pom.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imooc-single-mvc-service-order/target/classes/META-INF/maven/com.imooc/imooc-single-mvc-service-order/pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imooc-single-mvc-service-order/target/classes/com/imooc/order/service/OrdersService.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imooc-single-mvc-service-order/target/classes/com/imooc/order/service/impl/OrdersServiceImpl.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imooc-single-mvc-service-order/target/imooc-single-mvc-service-order.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imooc-single-mvc-service-order/target/maven-archiver/pom.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imooc-single-mvc-service-order/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imooc-single-mvc-service-order/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imooc-single-mvc-web/target/classes/com/imooc/web/controller/BuyController.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imooc-single-mvc-web/target/classes/com/imooc/web/service/BuyService.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imooc-single-mvc-web/target/classes/com/imooc/web/service/impl/BuyServiceImpl.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imooc-single-mvc-web/target/classes/log4j.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imooc-single-mvc-web/target/classes/mybatis/SqlMapConfig.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imooc-single-mvc-web/target/classes/resource/db.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imooc-single-mvc-web/target/classes/spring/applicationContext-dao.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imooc-single-mvc-web/target/classes/spring/applicationContext-service.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imooc-single-mvc-web/target/classes/spring/applicationContext-transaction.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imooc-single-mvc-web/target/classes/spring/springmvc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imooc-single-mvc-web/target/classes/sql/imooc-services.sql" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imooc-single-mvc-web/target/imooc-single-mvc-web.war" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imooc-single-mvc-web/target/imooc-single-mvc-web/WEB-INF/classes/com/imooc/web/controller/BuyController.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imooc-single-mvc-web/target/imooc-single-mvc-web/WEB-INF/classes/com/imooc/web/service/BuyService.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imooc-single-mvc-web/target/imooc-single-mvc-web/WEB-INF/classes/com/imooc/web/service/impl/BuyServiceImpl.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imooc-single-mvc-web/target/imooc-single-mvc-web/WEB-INF/classes/log4j.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imooc-single-mvc-web/target/imooc-single-mvc-web/WEB-INF/classes/mybatis/SqlMapConfig.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imooc-single-mvc-web/target/imooc-single-mvc-web/WEB-INF/classes/resource/db.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imooc-single-mvc-web/target/imooc-single-mvc-web/WEB-INF/classes/spring/applicationContext-dao.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imooc-single-mvc-web/target/imooc-single-mvc-web/WEB-INF/classes/spring/applicationContext-service.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imooc-single-mvc-web/target/imooc-single-mvc-web/WEB-INF/classes/spring/applicationContext-transaction.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imooc-single-mvc-web/target/imooc-single-mvc-web/WEB-INF/classes/spring/springmvc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imooc-single-mvc-web/target/imooc-single-mvc-web/WEB-INF/classes/sql/imooc-services.sql" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imooc-single-mvc-web/target/imooc-single-mvc-web/WEB-INF/jsp/index.jsp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imooc-single-mvc-web/target/imooc-single-mvc-web/WEB-INF/lib/aspectjweaver-1.8.9.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imooc-single-mvc-web/target/imooc-single-mvc-web/WEB-INF/lib/commons-codec-1.6.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imooc-single-mvc-web/target/imooc-single-mvc-web/WEB-INF/lib/commons-httpclient-3.1.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imooc-single-mvc-web/target/imooc-single-mvc-web/WEB-INF/lib/commons-io-1.3.2.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imooc-single-mvc-web/target/imooc-single-mvc-web/WEB-INF/lib/commons-lang3-3.3.2.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imooc-single-mvc-web/target/imooc-single-mvc-web/WEB-INF/lib/commons-logging-1.2.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imooc-single-mvc-web/target/imooc-single-mvc-web/WEB-INF/lib/commons-net-3.3.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imooc-single-mvc-web/target/imooc-single-mvc-web/WEB-INF/lib/commons-pool2-2.4.2.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imooc-single-mvc-web/target/imooc-single-mvc-web/WEB-INF/lib/druid-1.1.0.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imooc-single-mvc-web/target/imooc-single-mvc-web/WEB-INF/lib/httpclient-4.3.5.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imooc-single-mvc-web/target/imooc-single-mvc-web/WEB-INF/lib/httpcore-4.3.2.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imooc-single-mvc-web/target/imooc-single-mvc-web/WEB-INF/lib/imooc-single-mvc-common-0.0.1-SNAPSHOT.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imooc-single-mvc-web/target/imooc-single-mvc-web/WEB-INF/lib/imooc-single-mvc-mapper-0.0.1-SNAPSHOT.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imooc-single-mvc-web/target/imooc-single-mvc-web/WEB-INF/lib/imooc-single-mvc-pojo-0.0.1-SNAPSHOT.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imooc-single-mvc-web/target/imooc-single-mvc-web/WEB-INF/lib/imooc-single-mvc-service-item-0.0.1-SNAPSHOT.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imooc-single-mvc-web/target/imooc-single-mvc-web/WEB-INF/lib/imooc-single-mvc-service-order-0.0.1-SNAPSHOT.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imooc-single-mvc-web/target/imooc-single-mvc-web/WEB-INF/lib/jackson-annotations-2.7.4.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imooc-single-mvc-web/target/imooc-single-mvc-web/WEB-INF/lib/jackson-core-2.7.4.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imooc-single-mvc-web/target/imooc-single-mvc-web/WEB-INF/lib/jackson-databind-2.7.4.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imooc-single-mvc-web/target/imooc-single-mvc-web/WEB-INF/lib/jedis-2.9.0.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imooc-single-mvc-web/target/imooc-single-mvc-web/WEB-INF/lib/jsqlparser-0.9.4.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imooc-single-mvc-web/target/imooc-single-mvc-web/WEB-INF/lib/jstl-1.2.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imooc-single-mvc-web/target/imooc-single-mvc-web/WEB-INF/lib/log4j-1.2.17.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imooc-single-mvc-web/target/imooc-single-mvc-web/WEB-INF/lib/mybatis-3.2.8.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imooc-single-mvc-web/target/imooc-single-mvc-web/WEB-INF/lib/mybatis-paginator-1.2.15.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imooc-single-mvc-web/target/imooc-single-mvc-web/WEB-INF/lib/mybatis-spring-1.2.2.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imooc-single-mvc-web/target/imooc-single-mvc-web/WEB-INF/lib/mysql-connector-java-5.1.41.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imooc-single-mvc-web/target/imooc-single-mvc-web/WEB-INF/lib/pagehelper-4.1.3.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imooc-single-mvc-web/target/imooc-single-mvc-web/WEB-INF/lib/slf4j-api-1.7.21.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imooc-single-mvc-web/target/imooc-single-mvc-web/WEB-INF/lib/slf4j-log4j12-1.7.21.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imooc-single-mvc-web/target/imooc-single-mvc-web/WEB-INF/lib/spring-aop-4.3.13.RELEASE.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imooc-single-mvc-web/target/imooc-single-mvc-web/WEB-INF/lib/spring-aspects-4.3.13.RELEASE.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imooc-single-mvc-web/target/imooc-single-mvc-web/WEB-INF/lib/spring-beans-4.3.13.RELEASE.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imooc-single-mvc-web/target/imooc-single-mvc-web/WEB-INF/lib/spring-context-4.3.13.RELEASE.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imooc-single-mvc-web/target/imooc-single-mvc-web/WEB-INF/lib/spring-core-4.3.13.RELEASE.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imooc-single-mvc-web/target/imooc-single-mvc-web/WEB-INF/lib/spring-expression-4.3.13.RELEASE.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imooc-single-mvc-web/target/imooc-single-mvc-web/WEB-INF/lib/spring-jdbc-4.3.13.RELEASE.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imooc-single-mvc-web/target/imooc-single-mvc-web/WEB-INF/lib/spring-tx-4.3.13.RELEASE.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imooc-single-mvc-web/target/imooc-single-mvc-web/WEB-INF/lib/spring-web-4.3.13.RELEASE.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imooc-single-mvc-web/target/imooc-single-mvc-web/WEB-INF/lib/spring-webmvc-4.3.13.RELEASE.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imooc-single-mvc-web/target/imooc-single-mvc-web/WEB-INF/web.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imooc-single-mvc-web/target/m2e-wtp/web-resources/META-INF/MANIFEST.MF" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imooc-single-mvc-web/target/m2e-wtp/web-resources/META-INF/maven/com.imooc/imooc-single-mvc-web/pom.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imooc-single-mvc-web/target/m2e-wtp/web-resources/META-INF/maven/com.imooc/imooc-single-mvc-web/pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imooc-single-mvc-web/target/maven-archiver/pom.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imooc-single-mvc-web/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imooc-single-mvc-web/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" />
-    </list>
+    <list default="true" id="c9887470-ce73-4c15-9456-c9f097e39cd2" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/imooc-single-mvc-service-order/target/" />
     <ignored path="$PROJECT_DIR$/imooc-single-mvc-mapper/target/" />
     <ignored path="$PROJECT_DIR$/imooc-single-mvc-pojo/target/" />
@@ -146,6 +15,19 @@
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/imooc-single-mvc-web/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="153">
+              <caret line="9" column="30" lean-forward="true" selection-start-line="9" selection-start-column="30" selection-end-line="9" selection-end-column="30" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -178,6 +60,9 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
+      <pane id="AndroidView" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -185,13 +70,15 @@
               <item name="imooc-single-mvc" type="b2602c69:ProjectViewProjectNode" />
               <item name="imooc-single-mvc" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="imooc-single-mvc" type="b2602c69:ProjectViewProjectNode" />
+              <item name="imooc-single-mvc" type="462c0819:PsiDirectoryNode" />
+              <item name="imooc-single-mvc-web" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
-      <pane id="AndroidView" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -200,9 +87,9 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$/pom.xml" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="project.structure.last.edited" value="SDKs" />
+    <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
-    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="reference.settingsdialog.project.gradle" />
     <property name="settings.editor.splitter.proportion" value="0.2" />
   </component>
@@ -275,48 +162,50 @@
       <option name="presentableId" value="Default" />
       <updated>1527991917970</updated>
       <workItem from="1527991922444" duration="1269000" />
+      <workItem from="1528977409526" duration="235000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1269000" />
+    <option name="totallyTimeSpent" value="1504000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="57" y="23" width="1383" height="877" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info anchor="right" id="Palette" />
-      <window_info anchor="right" id="RestServices" />
-      <window_info active="true" anchor="bottom" id="Event Log" side_tool="true" visible="true" weight="0.32991013" />
-      <window_info anchor="right" id="Maven Projects" />
-      <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
-      <window_info id="Capture Tool" />
-      <window_info id="Designer" />
-      <window_info anchor="bottom" id="Tail" />
-      <window_info anchor="right" id="Database" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="RestServices" order="3" />
+      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" visible="true" weight="0.32991013" />
+      <window_info anchor="right" id="Maven Projects" order="3" />
+      <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
+      <window_info id="Capture Tool" order="2" />
+      <window_info id="Designer" order="2" />
+      <window_info anchor="bottom" id="Tail" order="7" />
+      <window_info anchor="right" id="Database" order="3" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info id="UI Designer" />
+      <window_info id="UI Designer" order="2" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="right" id="Palette&#9;" />
-      <window_info id="Image Layers" />
-      <window_info anchor="bottom" id="Java Enterprise" />
-      <window_info anchor="right" id="Capture Analysis" />
+      <window_info anchor="right" id="Palette&#9;" order="3" />
+      <window_info id="Image Layers" order="2" />
+      <window_info anchor="bottom" id="Java Enterprise" order="7" />
+      <window_info anchor="right" id="Capture Analysis" order="3" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Run" order="2" />
-      <window_info anchor="bottom" id="Version Control" />
-      <window_info anchor="bottom" id="Spring" />
-      <window_info anchor="bottom" id="MyBatis Sql Log" />
-      <window_info anchor="bottom" id="Terminal" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24981357" />
-      <window_info id="Web" side_tool="true" />
-      <window_info anchor="right" id="Theme Preview" />
-      <window_info id="Favorites" side_tool="true" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Spring" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info anchor="bottom" id="MyBatis Sql Log" order="7" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25354213" />
+      <window_info id="Web" order="2" side_tool="true" />
+      <window_info anchor="right" id="Theme Preview" order="3" />
+      <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -328,8 +217,43 @@
   <component name="VcsManagerConfiguration">
     <option name="LAST_COMMIT_MESSAGE" value="" />
   </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/imooc-single-mvc-web/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="30" lean-forward="true" selection-start-line="9" selection-start-column="30" selection-end-line="9" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+  </component>
   <component name="masterDetails">
     <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <last-edited>imooc-single-mvc-web:war</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.5" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>Spring</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
       <state key="GlobalLibrariesConfigurable.UI">
         <settings>
           <splitter-proportions>
@@ -353,6 +277,18 @@
           </splitter-proportions>
         </settings>
       </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>Spring|imooc-single-mvc-web</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
       <state key="ProjectJDKs.UI">
         <settings>
           <last-edited>1.8</last-edited>
@@ -367,6 +303,7 @@
       </state>
       <state key="ProjectLibrariesConfigurable.UI">
         <settings>
+          <last-edited>Maven: com.alibaba:druid:1.1.0</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>

@@ -2,6 +2,26 @@
     <wb-module deploy-name="imooc-single-mvc-web">
         <wb-resource deploy-path="/" source-path="/target/m2e-wtp/web-resources"/>
         <wb-resource deploy-path="/" source-path="/src/main/webapp" tag="defaultRootSource"/>
+        <wb-resource deploy-path="/WEB-INF/classes" source-path="/src/main/java"/>
+        <wb-resource deploy-path="/WEB-INF/classes" source-path="/src/main/resources"/>
+        <dependent-module archiveName="imooc-single-mvc-service-item-0.0.1-SNAPSHOT.jar" deploy-path="/WEB-INF/lib" handle="module:/resource/imooc-single-mvc-service-item/imooc-single-mvc-service-item">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <dependent-module archiveName="imooc-single-mvc-mapper-0.0.1-SNAPSHOT.jar" deploy-path="/WEB-INF/lib" handle="module:/resource/imooc-single-mvc-mapper/imooc-single-mvc-mapper">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <dependent-module archiveName="imooc-single-mvc-pojo-0.0.1-SNAPSHOT.jar" deploy-path="/WEB-INF/lib" handle="module:/resource/imooc-single-mvc-pojo/imooc-single-mvc-pojo">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <dependent-module archiveName="imooc-single-mvc-common-0.0.1-SNAPSHOT.jar" deploy-path="/WEB-INF/lib" handle="module:/resource/imooc-single-mvc-common/imooc-single-mvc-common">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <dependent-module archiveName="imooc-single-mvc-service-order-0.0.1-SNAPSHOT.jar" deploy-path="/WEB-INF/lib" handle="module:/resource/imooc-single-mvc-service-order/imooc-single-mvc-service-order">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <dependent-module archiveName="imooc-single-mvc-swagger-0.0.1-SNAPSHOT.jar" deploy-path="/WEB-INF/lib" handle="module:/resource/imooc-single-mvc-swagger/imooc-single-mvc-swagger">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
         <property name="context-root" value="imooc-single-mvc-web"/>
         <property name="java-output-path" value="/imooc-single-mvc-web/build/classes"/>
     </wb-module>

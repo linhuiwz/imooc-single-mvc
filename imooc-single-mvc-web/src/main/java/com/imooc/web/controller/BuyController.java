@@ -10,21 +10,27 @@ import org.springframework.web.bind.annotation.ResponseBody;
 import com.imooc.common.utils.IMoocJSONResult;
 import com.imooc.web.service.BuyService;
 
+import io.swagger.annotations.Api;
+import io.swagger.annotations.ApiOperation;
+
 /**
  * @Description: 订购商品controller
  */
 @Controller
+@Api(value = "下单控制器", description = "购买信息")
 public class BuyController {
 	
 	@Autowired
 	private BuyService buyService;
 	
 	@RequestMapping("/index")
+	@ApiOperation(value = "首页", notes = "首页")
 	public String index() {
 		return "index";
 	}
 	
 	@GetMapping("/buy")
+	@ApiOperation(value = "购买", notes = "buy")
 	@ResponseBody
 	public IMoocJSONResult doGetlogin(String itemId) {
 		
