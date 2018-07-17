@@ -1,7 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c9887470-ce73-4c15-9456-c9f097e39cd2" name="Default" comment="" />
+    <list default="true" id="c9887470-ce73-4c15-9456-c9f097e39cd2" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/artifacts/imooc_single_mvc_web_war_exploded.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/artifacts/imooc_single_mvc_web_war_exploded.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/imooc-single-mvc-common/imooc-single-mvc-common.iml" beforeDir="false" afterPath="$PROJECT_DIR$/imooc-single-mvc-common/imooc-single-mvc-common.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/imooc-single-mvc-common/target/imooc-single-mvc-common.jar" beforeDir="false" afterPath="$PROJECT_DIR$/imooc-single-mvc-common/target/imooc-single-mvc-common.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/imooc-single-mvc-mapper/imooc-single-mvc-mapper.iml" beforeDir="false" afterPath="$PROJECT_DIR$/imooc-single-mvc-mapper/imooc-single-mvc-mapper.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/imooc-single-mvc-mapper/target/imooc-single-mvc-mapper.jar" beforeDir="false" afterPath="$PROJECT_DIR$/imooc-single-mvc-mapper/target/imooc-single-mvc-mapper.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/imooc-single-mvc-pojo/imooc-single-mvc-pojo.iml" beforeDir="false" afterPath="$PROJECT_DIR$/imooc-single-mvc-pojo/imooc-single-mvc-pojo.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/imooc-single-mvc-pojo/target/imooc-single-mvc-pojo.jar" beforeDir="false" afterPath="$PROJECT_DIR$/imooc-single-mvc-pojo/target/imooc-single-mvc-pojo.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/imooc-single-mvc-service-item/imooc-single-mvc-service-item.iml" beforeDir="false" afterPath="$PROJECT_DIR$/imooc-single-mvc-service-item/imooc-single-mvc-service-item.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/imooc-single-mvc-service-item/target/imooc-single-mvc-service-item.jar" beforeDir="false" afterPath="$PROJECT_DIR$/imooc-single-mvc-service-item/target/imooc-single-mvc-service-item.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/imooc-single-mvc-service-order/imooc-single-mvc-service-order.iml" beforeDir="false" afterPath="$PROJECT_DIR$/imooc-single-mvc-service-order/imooc-single-mvc-service-order.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/imooc-single-mvc-service-order/target/imooc-single-mvc-service-order.jar" beforeDir="false" afterPath="$PROJECT_DIR$/imooc-single-mvc-service-order/target/imooc-single-mvc-service-order.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/imooc-single-mvc-swagger/target/imooc-single-mvc-swagger.jar" beforeDir="false" afterPath="$PROJECT_DIR$/imooc-single-mvc-swagger/target/imooc-single-mvc-swagger.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/imooc-single-mvc-web/imooc-single-mvc-web.iml" beforeDir="false" afterPath="$PROJECT_DIR$/imooc-single-mvc-web/imooc-single-mvc-web.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/imooc-single-mvc-web/target/m2e-wtp/web-resources/META-INF/MANIFEST.MF" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/imooc-single-mvc-web/target/m2e-wtp/web-resources/META-INF/maven/com.imooc/imooc-single-mvc-web/pom.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/imooc-single-mvc-web/target/m2e-wtp/web-resources/META-INF/maven/com.imooc/imooc-single-mvc-web/pom.xml" beforeDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/imooc-single-mvc-service-order/target/" />
     <ignored path="$PROJECT_DIR$/imooc-single-mvc-mapper/target/" />
     <ignored path="$PROJECT_DIR$/imooc-single-mvc-pojo/target/" />
@@ -9,6 +30,7 @@
     <ignored path="$PROJECT_DIR$/imooc-single-mvc-service-item/target/" />
     <ignored path="$PROJECT_DIR$/imooc-single-mvc-common/target/" />
     <ignored path="$PROJECT_DIR$/imooc-single-mvc-web/target/" />
+    <ignored path="$PROJECT_DIR$/imooc-single-mvc-swagger/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -17,12 +39,21 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="true">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/imooc-single-mvc-web/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="153">
-              <caret line="9" column="30" lean-forward="true" selection-start-line="9" selection-start-column="30" selection-end-line="9" selection-end-column="30" />
+              <caret line="9" column="30" selection-start-line="9" selection-start-column="30" selection-end-line="9" selection-end-column="30" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="93">
+              <caret line="240" column="21" selection-start-line="240" selection-start-column="21" selection-end-line="240" selection-end-column="21" />
             </state>
           </provider>
         </entry>
@@ -39,11 +70,25 @@
       </map>
     </option>
   </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/pom.xml" />
+      </list>
+    </option>
+  </component>
   <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
   <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
   <component name="JsGulpfileManager">
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="userSettingsFile" value="/usr/local/Cellar/maven/3.3.9/libexec/conf/settings.xml" />
+      </MavenGeneralSettings>
+    </option>
   </component>
   <component name="NodePackageJsonFileManager">
     <packageJsonPaths />
@@ -61,19 +106,14 @@
     </navigator>
     <panes>
       <pane id="Scope" />
-      <pane id="AndroidView" />
       <pane id="PackagesPane" />
+      <pane id="AndroidView" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
               <item name="imooc-single-mvc" type="b2602c69:ProjectViewProjectNode" />
               <item name="imooc-single-mvc" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="imooc-single-mvc" type="b2602c69:ProjectViewProjectNode" />
-              <item name="imooc-single-mvc" type="462c0819:PsiDirectoryNode" />
-              <item name="imooc-single-mvc-web" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -84,14 +124,13 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/pom.xml" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
-    <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.project.gradle" />
-    <property name="settings.editor.splitter.proportion" value="0.2" />
+    <property name="project.structure.side.proportion" value="0.44424778" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -105,7 +144,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Maven.imooc-single-mvc-web">
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
     </configuration>
@@ -127,6 +166,87 @@
         <value defaultName="singleModule" />
       </option>
       <patterns />
+    </configuration>
+    <configuration name="imooc-single-mvc-web" type="MavenRunConfiguration" factoryName="Maven">
+      <MavenSettings>
+        <option name="myGeneralSettings">
+          <MavenGeneralSettings>
+            <option name="alwaysUpdateSnapshots" value="false" />
+            <option name="checksumPolicy" value="NOT_SET" />
+            <option name="failureBehavior" value="NOT_SET" />
+            <option name="localRepository" value="" />
+            <option name="mavenHome" value="Bundled (Maven 3)" />
+            <option name="nonRecursive" value="false" />
+            <option name="outputLevel" value="INFO" />
+            <option name="pluginUpdatePolicy" value="DEFAULT" />
+            <option name="printErrorStackTraces" value="false" />
+            <option name="threads" />
+            <option name="usePluginRegistry" value="false" />
+            <option name="userSettingsFile" value="/usr/local/Cellar/maven/3.3.9/libexec/conf/settings.xml" />
+            <option name="workOffline" value="false" />
+          </MavenGeneralSettings>
+        </option>
+        <option name="myRunnerSettings" />
+        <option name="myRunnerParameters">
+          <MavenRunnerParameters>
+            <option name="profiles">
+              <set />
+            </option>
+            <option name="goals">
+              <list>
+                <option value="clean" />
+                <option value="tomcat7:run" />
+              </list>
+            </option>
+            <option name="pomFileName" />
+            <option name="profilesMap">
+              <map />
+            </option>
+            <option name="resolveToWorkspace" value="false" />
+            <option name="workingDirPath" value="$PROJECT_DIR$/imooc-single-mvc-web" />
+          </MavenRunnerParameters>
+        </option>
+      </MavenSettings>
+    </configuration>
+    <configuration name="imooc-single-mvc" type="MavenRunConfiguration" factoryName="Maven">
+      <MavenSettings>
+        <option name="myGeneralSettings">
+          <MavenGeneralSettings>
+            <option name="alwaysUpdateSnapshots" value="false" />
+            <option name="checksumPolicy" value="NOT_SET" />
+            <option name="failureBehavior" value="NOT_SET" />
+            <option name="localRepository" value="" />
+            <option name="mavenHome" value="Bundled (Maven 3)" />
+            <option name="nonRecursive" value="false" />
+            <option name="outputLevel" value="INFO" />
+            <option name="pluginUpdatePolicy" value="DEFAULT" />
+            <option name="printErrorStackTraces" value="false" />
+            <option name="threads" />
+            <option name="usePluginRegistry" value="false" />
+            <option name="userSettingsFile" value="/usr/local/Cellar/maven/3.3.9/libexec/conf/settings.xml" />
+            <option name="workOffline" value="false" />
+          </MavenGeneralSettings>
+        </option>
+        <option name="myRunnerSettings" />
+        <option name="myRunnerParameters">
+          <MavenRunnerParameters>
+            <option name="profiles">
+              <set />
+            </option>
+            <option name="goals">
+              <list>
+                <option value="install" />
+              </list>
+            </option>
+            <option name="pomFileName" />
+            <option name="profilesMap">
+              <map />
+            </option>
+            <option name="resolveToWorkspace" value="false" />
+            <option name="workingDirPath" value="$PROJECT_DIR$" />
+          </MavenRunnerParameters>
+        </option>
+      </MavenSettings>
     </configuration>
     <configuration default="true" type="TestNG" factoryName="TestNG">
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
@@ -150,6 +270,10 @@
       <properties />
       <listeners />
     </configuration>
+    <list>
+      <item itemvalue="Maven.imooc-single-mvc" />
+      <item itemvalue="Maven.imooc-single-mvc-web" />
+    </list>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -163,19 +287,19 @@
       <updated>1527991917970</updated>
       <workItem from="1527991922444" duration="1269000" />
       <workItem from="1528977409526" duration="235000" />
+      <workItem from="1529312327803" duration="1498000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1504000" />
+    <option name="totallyTimeSpent" value="3002000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="57" y="23" width="1383" height="877" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="right" id="RestServices" order="3" />
-      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" visible="true" weight="0.32991013" />
+      <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.17375094" side_tool="true" visible="true" weight="0.32991013" />
       <window_info anchor="right" id="Maven Projects" order="3" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
       <window_info id="Capture Tool" order="2" />
@@ -192,11 +316,11 @@
       <window_info anchor="bottom" id="Java Enterprise" order="7" />
       <window_info anchor="right" id="Capture Analysis" order="3" />
       <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.82624906" visible="true" weight="0.32991013" />
       <window_info anchor="bottom" id="Spring" order="7" />
-      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="7" sideWeight="0.49962714" weight="0.32991013" />
       <window_info anchor="bottom" id="MyBatis Sql Log" order="7" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25354213" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2572707" />
       <window_info id="Web" order="2" side_tool="true" />
       <window_info anchor="right" id="Theme Preview" order="3" />
       <window_info id="Favorites" order="2" side_tool="true" />
@@ -225,6 +349,20 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/imooc-single-mvc-web/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="30" selection-start-line="9" selection-start-column="30" selection-end-line="9" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="93">
+          <caret line="240" column="21" selection-start-line="240" selection-start-column="21" selection-end-line="240" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
   </component>
   <component name="masterDetails">
     <states>
@@ -235,7 +373,7 @@
           <splitter-proportions>
             <option name="proportions">
               <list>
-                <option value="0.2" />
+                <option value="0.44424778" />
                 <option value="0.5" />
               </list>
             </option>
@@ -248,7 +386,7 @@
           <splitter-proportions>
             <option name="proportions">
               <list>
-                <option value="0.2" />
+                <option value="0.44424778" />
               </list>
             </option>
           </splitter-proportions>
@@ -259,7 +397,7 @@
           <splitter-proportions>
             <option name="proportions">
               <list>
-                <option value="0.2" />
+                <option value="0.44424778" />
               </list>
             </option>
           </splitter-proportions>
@@ -271,7 +409,7 @@
           <splitter-proportions>
             <option name="proportions">
               <list>
-                <option value="0.2" />
+                <option value="0.44424778" />
               </list>
             </option>
           </splitter-proportions>
@@ -279,11 +417,12 @@
       </state>
       <state key="ModuleStructureConfigurable.UI">
         <settings>
-          <last-edited>Spring|imooc-single-mvc-web</last-edited>
+          <last-edited>imooc-single-mvc</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
-                <option value="0.2" />
+                <option value="0.44424778" />
+                <option value="0.6" />
               </list>
             </option>
           </splitter-proportions>
@@ -307,7 +446,7 @@
           <splitter-proportions>
             <option name="proportions">
               <list>
-                <option value="0.2" />
+                <option value="0.44424778" />
               </list>
             </option>
           </splitter-proportions>

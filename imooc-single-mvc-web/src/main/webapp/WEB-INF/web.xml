@@ -62,5 +62,15 @@
 		<servlet-name>imooc-single-mvc-web</servlet-name>
 		<url-pattern>/*</url-pattern>
 	</servlet-mapping>
+
+	<!-- Add the delegate to the standard tracing filter and map it to all paths -->
+	<filter>
+		<filter-name>tracingFilter</filter-name>
+		<filter-class>brave.spring.webmvc.DelegatingTracingFilter</filter-class>
+	</filter>
+	<filter-mapping>
+		<filter-name>tracingFilter</filter-name>
+		<url-pattern>/*</url-pattern>
+	</filter-mapping>
 	
 </web-app>

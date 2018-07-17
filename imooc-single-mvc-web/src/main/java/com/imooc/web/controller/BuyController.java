@@ -19,28 +19,29 @@ import io.swagger.annotations.ApiOperation;
 @Controller
 @Api(value = "下单控制器", description = "购买信息")
 public class BuyController {
-	
-	@Autowired
-	private BuyService buyService;
-	
-	@RequestMapping("/index")
-	@ApiOperation(value = "首页", notes = "首页")
-	public String index() {
-		return "index";
-	}
-	
-	@GetMapping("/buy")
-	@ApiOperation(value = "购买", notes = "buy")
-	@ResponseBody
-	public IMoocJSONResult doGetlogin(String itemId) {
-		
-		if (StringUtils.isNotBlank(itemId)) {
-			buyService.doBuyItem(itemId);
-		} else {
-			return IMoocJSONResult.errorMsg("商品id不能为空");
-		}
-		
-		return IMoocJSONResult.ok();
-	}
-	
+
+    @Autowired
+    private BuyService buyService;
+
+    @RequestMapping("/")
+    @ApiOperation(value = "首页", notes = "首页")
+    @ResponseBody
+    public String index() {
+        return "hello";
+    }
+
+    @GetMapping("/buy")
+    @ApiOperation(value = "购买", notes = "buy")
+    @ResponseBody
+    public IMoocJSONResult doGetlogin(String itemId) {
+
+        if (StringUtils.isNotBlank(itemId)) {
+            buyService.doBuyItem(itemId);
+        } else {
+            return IMoocJSONResult.errorMsg("商品id不能为空");
+        }
+
+        return IMoocJSONResult.ok();
+    }
+
 }

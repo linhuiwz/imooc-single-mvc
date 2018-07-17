@@ -11,6 +11,7 @@
         <module name="imooc-single-mvc-pojo" />
         <module name="imooc-single-mvc-service-item" />
         <module name="imooc-single-mvc-service-order" />
+        <module name="imooc-single-mvc-swagger" />
         <module name="imooc-single-mvc-web" />
       </profile>
     </annotationProcessing>
@@ -21,6 +22,7 @@
       <module name="imooc-single-mvc-pojo" target="1.8" />
       <module name="imooc-single-mvc-service-item" target="1.8" />
       <module name="imooc-single-mvc-service-order" target="1.8" />
+      <module name="imooc-single-mvc-swagger" target="1.8" />
       <module name="imooc-single-mvc-web" target="1.8" />
     </bytecodeTargetLevel>
   </component>
